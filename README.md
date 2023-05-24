@@ -29,6 +29,10 @@ If you need to uninstall:
 sudo snap remove ubuntu-iso-download
 ```
 
+## :memo: More about useful linux environment for development
+
+[:link: linux environment for development](https://github.com/oficina-do-brito/p1_manutencao/tree/main/my_programs/programs.md)
+
 ## Problem creating bootable pendrive, I can't create it with Windows OS
 
 Undoubtedly, throughout the life of an IT student, at least once the situation happened in which a friend or even a family member came to you with the intention of solving some software maintenance and installation problem and you with your Linux from a can of beer searched the web for a solution to create a Bootable Pendrive for another OS such as Windows, which is quite annoying to create an image. Well, 1 solution that I always use, and it never let me down was [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) , the reason why it is very useful is that it already that it is created using python, every system easily and without much effort runs it.
